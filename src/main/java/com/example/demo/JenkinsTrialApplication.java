@@ -15,6 +15,6 @@ public class JenkinsTrialApplication {
 	
 	@GetMapping("/")
 	public String getMessage() {
-		return "Hello....";
+		return "Hello World";
 	}
 }
